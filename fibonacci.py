@@ -23,4 +23,10 @@ def fib_3(max):
 		a,b =b,a+b
 
 
+def principal():
+	fib_1(10)
+	print(fibo_2(10))
+	for n in fibo_3(10):
+		print(f)
 
+principal()
