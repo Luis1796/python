@@ -23,8 +23,4 @@ def fib_3(max):
 		a,b =b,a+b
 
 
-		
-fib_1(10)
-print(fibo_2(10))
-for n in fib_3(10):
-	print(n)
+
